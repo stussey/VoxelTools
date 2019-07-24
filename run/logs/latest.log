@@ -1,0 +1,64 @@
+[24Jul2019 04:27:59.351] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20190719.225934, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 28.0.11, --version, MOD_DEV, --assetIndex, 1.14, --assetsDir, D:\Users\dream\.gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[24Jul2019 04:27:59.358] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 3.0.2+57+a2bc918 starting: java version 1.8.0_221 by Oracle Corporation
+[24Jul2019 04:28:00.561] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[24Jul2019 04:28:01.258] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, D:\Users\dream\.gradle\caches\forge_gradle\assets, --assetIndex, 1.14, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[24Jul2019 04:28:05.001] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[24Jul2019 04:28:05.497] [Client thread/INFO] [net.minecraftforge.fml.ModLoader/CORE]: Loading Network data for FML net version: FML2
+[24Jul2019 04:28:19.703] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.2.2 build 10
+[24Jul2019 04:28:22.205] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.0.11, for MC 1.14.4 with MCP 20190719.225934
+[24Jul2019 04:28:22.206] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.0.11 Initialized
+[24Jul2019 04:28:22.468] [Client thread/INFO] [ExampleMod/]: HELLO from Register Block
+[24Jul2019 04:28:26.232] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[24Jul2019 04:28:26.532] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file D:\Dev\Minecraft\Java\Forge\Mods\VoxelTools\run\config\forge-client.toml is not correct. Correcting
+[24Jul2019 04:28:26.588] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to SimpleCommentedConfig:{}
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.zoomInMissingModelTextInGui was corrected from null to false
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.forgeCloudsEnabled was corrected from null to true
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.disableStairSlabCulling was corrected from null to false
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to false
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.forgeLightPipelineEnabled was corrected from null to true
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.selectiveResourceReloadEnabled was corrected from null to true
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showLoadWarnings was corrected from null to true
+[24Jul2019 04:28:26.659] [Server-Worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.allowEmissiveItems was corrected from null to true
+[24Jul2019 04:28:26.660] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[24Jul2019 04:28:26.662] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[24Jul2019 04:28:26.768] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[24Jul2019 04:28:26.781] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[24Jul2019 04:28:26.782] [modloading-worker-1/INFO] [ExampleMod/]: HELLO FROM PREINIT
+[24Jul2019 04:28:26.783] [modloading-worker-1/INFO] [ExampleMod/]: DIRT BLOCK >> minecraft:dirt
+[24Jul2019 04:28:26.967] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[24Jul2019 04:28:27.000] [modloading-worker-1/INFO] [ExampleMod/]: Got game settings net.minecraft.client.GameSettings@3028fd74
+[24Jul2019 04:28:27.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[24Jul2019 04:28:27.345] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 28.0.11 Target: 28.0.13
+[24Jul2019 04:28:27.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [examplemod] Starting version check at http://myurl.me/
+[24Jul2019 04:28:27.654] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 400 for URL: http://myurl.me/
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_221]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_221]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1950) ~[?:1.8.0_221]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1945) ~[?:1.8.0_221]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_221]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1944) ~[?:1.8.0_221]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1514) ~[?:1.8.0_221]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498) ~[?:1.8.0_221]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:189) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:206) ~[?:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_221]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:157) [?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 400 for URL: http://myurl.me/
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900) ~[?:1.8.0_221]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498) ~[?:1.8.0_221]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_221]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:173) ~[?:?]
+	... 3 more
+[24Jul2019 04:28:33.718] [modloading-worker-2/INFO] [ExampleMod/]: Hello world from the MDK
+[24Jul2019 04:28:33.718] [modloading-worker-2/INFO] [ExampleMod/]: Got IMC [Hello world]
+[24Jul2019 04:28:34.622] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[24Jul2019 04:28:34.623] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[24Jul2019 04:28:34.807] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures-atlas
+[24Jul2019 04:28:35.484] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[24Jul2019 04:28:35.485] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[24Jul2019 04:28:35.486] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[24Jul2019 04:29:08.080] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
